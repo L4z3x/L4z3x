@@ -2,18 +2,24 @@
   <img src="icon.jpg" width="200"/>
   <div id="badges">
   <a href="https://dz.linkedin.com/in/moussa-mousselmal-49642a281?trk=people-guest_people_search-card">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Linkedin-blue?logoSize=auto&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="discordapp.com/users/1008642046657048597">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://discordapp.com/users/1008642046657048597">
+    <img src="https://img.shields.io/badge/Discord-darkblue?logoSize=auto&style=for-the-badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://x.com/Moussa_l4z3x?t=Sihj2DzpGDo44zAB9GHgUA&s=09">
+    <img src="https://img.shields.io/badge/X-black?logoSize=auto&style=for-the-badge" alt="Twitter Badge"/>
   </a>
-</div>
+  </div>
+  <h1>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
 
-## Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 - 🔭 I’m currently working on khatamat website
 - 🌱 I’m currently learning django
