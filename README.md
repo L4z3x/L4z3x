@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="icon.jpg" width="200"/>
   <div id="badges">
-  <a href="[your-linkedin-URL](https://dz.linkedin.com/in/moussa-mousselmal-49642a281?trk=people-guest_people_search-card)">
+  <a href="https://dz.linkedin.com/in/moussa-mousselmal-49642a281?trk=people-guest_people_search-card">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="discordapp.com/users/1008642046657048597">
