@@ -24,6 +24,8 @@
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L4z3x&show_icons=true&theme=radical)]
+
 ### :hammer_and_wrench: Languages and Tools :
 <div >
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
