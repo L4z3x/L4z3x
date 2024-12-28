@@ -29,7 +29,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,arch,django,python,js,react,mysql,postgres,postman,docker,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,arch,django,python,js,react,mysql,postgres,postman,docker,redis,nginx,elasticsearch,rabbitmq,vscode" />
   </a>
 </p>
 
