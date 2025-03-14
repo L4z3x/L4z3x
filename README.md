@@ -17,10 +17,9 @@
 
 ### :man_technologist: About Me :
 
-- 🔭 I’m currently working on khatamat website
-- 🌱 I’m currently learning django
+- 🔭 I’m currently working on mal-cli
+- 🌱 I’m currently learning rust
 - 👯 I’m looking to collaborate on khatamat website
-- 🤔 I’m looking for help with ui/ux design and structuring the idea.
 
 ---
 
