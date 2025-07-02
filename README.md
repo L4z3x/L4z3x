@@ -1,26 +1,15 @@
-<div id="header" align="center">
-  <img src="icon.jpg" width="200"/>
-  <div id="badges">
-  <a href="https://dz.linkedin.com/in/moussa-mousselmal-49642a281?trk=people-guest_people_search-card">
-    <img src="https://img.shields.io/badge/Linkedin-blue?logoSize=auto&style=for-the-badge" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://discordapp.com/users/1008642046657048597">
-    <img src="https://img.shields.io/badge/Discord-darkblue?logoSize=auto&style=for-the-badge"/>
-  </a>
-  <a href="https://x.com/Moussa_l4z3x?t=Sihj2DzpGDo44zAB9GHgUA&s=09">
-    <img src="https://img.shields.io/badge/X-black?logoSize=auto&style=for-the-badge" alt="Twitter Badge"/>
-  </a>
-  </div>
+<div id="header" align="center"style="text-align: center; padding: 20px;">
+  <img src="icon.jpg" width="200" alt="Profile Icon" style="display: block; margin: 0 auto;" />
 </div>
 
 ---
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moussa-mousselmal-49642a281/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/l4z3x_m) [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?logo=tryhackme&logoColor=red)](https://tryhackme.com/p/L4z3x) [![CyberDefenders](https://img.shields.io/badge/CyberDefenders-%230078D7.svg?logo=cyberdefenders&logoColor=white)](https://cyberdefenders.org/p/L4Z3X) [![Discord](https://img.shields.io/badge/Discord-darkblue?logo=discord)](https://discordapp.com/users/1008642046657048597)
+ <br><br>
 ### :man_technologist: About Me :
 
-- 🔭 I’m currently working on mal-cli
-- 🌱 I’m currently learning rust
-- 👯 I’m looking to collaborate on khatamat website
-
+- 🔭 I’m currently learning cybersecurity (DFIR)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
