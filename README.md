@@ -5,7 +5,7 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moussa-mousselmal-49642a281/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/l4z3x_m) [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?logo=tryhackme&logoColor=red)](https://tryhackme.com/p/L4z3x) [![CyberDefenders](https://img.shields.io/badge/CyberDefenders-%230078D7.svg?logo=cyberdefenders&logoColor=white)](https://cyberdefenders.org/p/L4Z3X) [![Discord](https://img.shields.io/badge/Discord-darkblue?logo=discord)](https://discordapp.com/users/1008642046657048597)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/l4z3x_m) [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?logo=tryhackme&logoColor=red)](https://tryhackme.com/p/L4z3x) [![CyberDefenders](https://img.shields.io/badge/CyberDefenders-%230078D7.svg?logo=cyberdefenders&logoColor=white)](https://cyberdefenders.org/p/L4Z3X) [![Discord](https://img.shields.io/badge/Discord-darkblue?logo=discord)](https://discordapp.com/users/1008642046657048597)
  <br><br>
 ### :man_technologist: About Me :
 
