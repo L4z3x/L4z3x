@@ -5,7 +5,7 @@
 ---
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/l4z3x_m) [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?logo=tryhackme&logoColor=red)](https://tryhackme.com/p/L4z3x) [![CyberDefenders](https://img.shields.io/badge/CyberDefenders-%230078D7.svg?logo=cyberdefenders&logoColor=white)](https://cyberdefenders.org/p/L4Z3X) [![Discord](https://img.shields.io/badge/Discord-darkblue?logo=discord)](https://discordapp.com/users/1008642046657048597)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/l4z3x_m) [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?logo=tryhackme&logoColor=red)](https://tryhackme.com/p/L4z3x) [![CyberDefenders](https://img.shields.io/badge/CyberDefenders-%230078D7.svg?logo=cyberdefenders&logoColor=white)](https://cyberdefenders.org/p/L4z3x) [![Discord](https://img.shields.io/badge/Discord-darkblue?logo=discord)](https://discordapp.com/users/1008642046657048597)
  <br><br>
 ### :man_technologist: About Me :
 
@@ -17,9 +17,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,linux,arch,rust,django,python,js,react,postgres,docker,redis,nginx,mysql,postman,elasticsearch,rabbitmq,vscode" />
   </a>
-   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=L4z3x&show_icons=true&include_all_commits=true&theme=gruvbox"></p>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=L4z3x&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="L4z3x"/></p>
-
 </p>
 
 
